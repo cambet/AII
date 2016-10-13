@@ -1,0 +1,1162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="_htmltag" xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" data-siteculture="es-ES" data-contentculture="es-ES">
+    <head><link href="http://cache.lego.com/r/www/es-es/design/shared/global/buttons.aspx?l.r2=137758852" type="text/css" rel="stylesheet"><style type="text/css">#wallpaper {background: url(http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/star%20wars%202014%20q1/starwars_9515_1920x420_mainstage_bg_2014_q1.jpg?l.r2=-1488040382) no-repeat;}
+#spotlightWrapper h2 { width:164px; height:57px; background: url(http://cache.lego.com/r/www/-/media/portal%20v2010/games/pageheaders/es-es/header64x57_games_es.png?l.r2=-1748799463) no-repeat;}
+.badge { width:57px; height:228px; background: url(http://cache.lego.com/r/www/-/media/portal%20v2010/shared/badges/es-es/badges_es.png?l.r2=1836624198) no-repeat;}
+#allgames {background: url(http://cache.lego.com/r/www/-/media/portal%20v2010/games/categories/es-es/btn223x88_allwebgames_es.png?l.r2=1267530454) no-repeat; width:223px; height: 88px;}
+#action {background: url(http://cache.lego.com/r/www/-/media/portal%20v2010/games/categories/es-es/btn96x88_action_es.png?l.r2=1374650183) no-repeat; width:96px; height: 88px;}
+#strategy {background: url(http://cache.lego.com/r/www/-/media/portal%20v2010/games/categories/es-es/btn126x88_strategy_es.png?l.r2=-656262110) no-repeat; width:126px; height: 88px;}
+#adventure {background: url(http://cache.lego.com/r/www/-/media/portal%20v2010/games/categories/es-es/btn107x88_adventure_es.png?l.r2=-1970278202) no-repeat; width:107px; height: 88px;}
+#creative {background: url(http://cache.lego.com/r/www/-/media/portal%20v2010/games/categories/es-es/btn130x88_creative_es.png?l.r2=963392247) no-repeat; width:130px; height: 88px;}
+#preschool {background: url(http://cache.lego.com/r/www/-/media/portal%20v2010/games/categories/es-es/btn128x88_preschool_es.png?l.r2=732985090) no-repeat; width:128px; height: 88px;}
+#otherGamesHeader { background-image: url(''); background-repeat: no-repeat; height: px; width: px; }
+#moviesComicsHeader { background-image: url(''); background-repeat: no-repeat; height: px; width: px;  } 
+</style><meta http-equiv="content-language" content="es" /><meta http-equiv="content-type" content="text/html charset=utf-8" /><title>
+	LEGO.com  Web y videojuegos – LEGO.com ES
+</title><meta name="google" value="notranslate" /><base id="basetag" href="http://www.lego.com/es-ES/"></base>
+    <script type="text/javascript" src="http://cache.lego.com/r/www/components/core.modernizr/modernizr.min.js?l.r2=1.0.0.1585"></script>
+
+<script src="https://mi-od-live-s.legocdn.com/r/www/r/analytics/Modules/TrackManApi" data-initial-page="portal:games:overview" data-tracking-script="http://cache.lego.com/r/www/design/tracking/page-tracking.js?l.r2=1.0.0.1585"></script>
+
+<script type="text/javascript">       function InitMainstageSets()       {          var singleItem;
+singleItem = new MainstageFlashItem();
+singleItem.Init("http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/star%20wars%202014%20q1/starwars_9515_1920x420_mainstage_bg_2014_q1.jpg?l.r2=-1488040382"
+,"http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/star%20wars%202014%20q1/starwars951582x38thumbnail2014q.png?l.r2=-1931896218"
+,"LEGO® Star Wars™"
+,"http://www.lego.com/es-es/starwars/games/the-new-yoda-chronicles-3fd8e02f1c5f4d2c856339f08472d72b"
+,"http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/star%20wars%202014%20q1/starwars_9515_950x420_mainstage_still_2014_q1.png?l.r2=-1732846299"
+,"http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/star%20wars%202014%20q1/starwars_9515_950x420_mainstage_animation_2014_q1.swf?l.r2=-1725789662"
+,""
+,{MovieURL:'',MovieLink:'http://www.lego.com/es-es/starwars/games/the-new-yoda-chronicles-3fd8e02f1c5f4d2c856339f08472d72b'}
+,""
+,""
+,"http://www.lego.com/es-es/starwars/games/the-new-yoda-chronicles-3fd8e02f1c5f4d2c856339f08472d72b"
+,""
+,""
+,""
+,"");
+items.push(singleItem);
+
+singleItem = new MainstageFlashItem();
+singleItem.Init("http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/city%20my%20city%202/city%20my%20city%202.jpg?l.r2=314486962"
+,"http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/city%20my%20city%202/games_thumbnail_mycity2.png?l.r2=-1708752403"
+,"LEGO® City"
+,"http://www.lego.com/es-es/city/games/mycity2-c7722ac2c54b4a1a837ae33e20ec90bc"
+,""
+,""
+,""
+,{MovieURL:''}
+,""
+,""
+,""
+,""
+,""
+,""
+,"");
+items.push(singleItem);
+
+singleItem = new MainstageFlashItem();
+singleItem.Init("http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/marvels%20avengers%20demo%20download/1920x420-mainstagegt2.jpg?l.r2=-1569360217"
+,"http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/marvels%20avengers%20demo%20download/games_thumbnail_marvels_avengers.png?l.r2=216328959"
+,"LEGO® Marvel's Avengers™"
+,"http://videogames.lego.com/es-es/marvels-avengers/demo-download"
+,""
+,""
+,""
+,{MovieURL:''}
+,""
+,""
+,""
+,""
+,""
+,""
+,"");
+items.push(singleItem);
+
+singleItem = new MainstageFlashItem();
+singleItem.Init("http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/dc%20universe%20super%20heroes/superheroes-dc_1920x420_mainstage_bg2.jpg?l.r2=-1307418934"
+,"http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/gamespagemainstages/dc%20universe%20super%20heroes/superheroes-dc_82x38_thumbnail.png?l.r2=-1725785244"
+,"LEGO® DC Comics™ Super Heroes"
+,"http://dcuniversesuperheroes.lego.com/es-es/games/default.aspx"
+,""
+,""
+,""
+,{MovieURL:''}
+,""
+,""
+,""
+,""
+,""
+,""
+,"");
+items.push(singleItem);
+       }</script><script src="http://cache.lego.com/r/www/design/global/js_9be41044a5320129c3569409189072abab01cfb2" type="text/javascript"></script>
+<script src="http://cache.lego.com/r/www/design/www/js_85cb23ac085b6959d789003aab0a19750a1d0525" type="text/javascript"></script>
+<script src="http://cache.lego.com/r/www/design/www/wallpaper/js_6a822c960d7679100e21674475f7db5433edad1c" type="text/javascript"></script>
+<script src="http://cache.lego.com/r/www/design/www/toutitemlist/js_bd205e2923339ed0b33c997c36c57dc076e74ce7" type="text/javascript"></script>
+<script src="http://cache.lego.com/r/www/design/www/games/js_9a632a89f1935d9e3e0339e104cfd0ae44fc5d19" type="text/javascript"></script><link href="http://cache.lego.com/r/www/design/global/css_8b3ca8593eba51da08eaf59c21af883f26e16c98" type="text/css" rel="stylesheet">
+<link href="http://cache.lego.com/r/www/design/www/css_3096a292c25d9d486b215193ef77c12ddb5502e1" type="text/css" rel="stylesheet">
+<link href="http://cache.lego.com/r/www/design/www/wallpaper/css_580f4785fc9d684bc8d987f2cdca66c6e88da465" type="text/css" rel="stylesheet">
+<link href="http://cache.lego.com/r/www/design/www/games/css_ad71416586f123eec9e9e083730a95b5cb802f3e" type="text/css" rel="stylesheet"></head>
+    <body  class="Geses unknown 0.0">
+        <form method="post" action="/es-es/games" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2ODkwNjU4MDEPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCAWRk9ZQ9JmEKUrUBSfk+e8Y573phHck=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8B8C8B03" />
+</div>
+            
+   <div id="globalWrapper">
+      
+      
+
+<script type="text/javascript">
+
+   $('<div id="wallpaper"></div>').insertBefore('#globalWrapper');
+</script>
+
+
+<div id="spotlightWrapper">
+   <div class="spotlightFade"></div>
+    <div class="spotlightNoFade">
+
+        <h2>Web y videojuegos – LEGO.com ES</h2>
+        <ul id="thumbs"></ul>
+        <span class="thumbIndicator overlays"></span>
+    </div>
+    <div id="flashContent" class="flashContent">
+	<img alt="" src="http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/mainflash/clearpixel.gif?l.r2=-1378911673" />
+</div><script type="text/javascript">
+	var flashvars = {
+	onloadcallback:"flashCallBack", onflashinteract:"flashInteract", configxml:"<lego><plugins><plugin file='http://cache.lego.com/r/www/-/media/portal%20v2010/mainstages/shared/movieplayer.swf?l.r2=2090101465' /></plugins></lego>"
+	};
+	var params = {
+	allowScriptAccess:"always", quality:"best", menu:"false", scale:"noscale", wmode:"transparent"
+	};
+	var attributes = {
+	id: "flashContent",
+	name: "flashContent"
+	};
+	swfobject.embedSWF("http://cache.lego.com/r/www/-/media/portal v2010/mainstages/mainflash/main.swf?l.r2=-1506411239", "flashContent", "100%", "478", "9.0.0", "http://cache.lego.com/r/www/design/shared/flash/expressinstall.swf?l.r2=1.0.0.1585", flashvars, params, attributes)
+
+</script>
+
+</div>
+
+<script type="text/javascript">
+   if (window.attachEvent) {
+      window.attachEvent('onload', PageLoaded);
+   }
+   else if (window.addEventListener) {
+      window.addEventListener('load', PageLoaded, false);
+   }
+   else {
+      document.addEventListener('load', PageLoaded, false);
+   }
+
+   $(window).load(
+        function () {
+           $(".thumbIndicator").click(function () {
+              ManualShiftToSet(currentDisplaySet);
+           });
+        });
+</script>
+
+      <div id="site" class="clearfix">
+         
+
+<script type="text/javascript">
+   function ReInitScroll() {
+      $('#gamesList').jScrollPane({ alwaysShow: true, showArrows: true, scrollbarWidth: 15, arrowSize: 23 });
+   };       
+</script>
+    <div class="box gameOverview white390">
+        <span class="left"></span>
+        <div class="inner">
+            
+            
+                    <ul id="categories">
+                
+                    <li id="allgames" class="active">
+                        <a href="#">All Web Games</a>
+                    </li>
+                
+                    <li id="action" class="">
+                        <a href="#">Action</a>
+                    </li>
+                
+                    <li id="strategy" class="">
+                        <a href="#">Strategy</a>
+                    </li>
+                
+                    <li id="adventure" class="">
+                        <a href="#">Adventure</a>
+                    </li>
+                
+                    <li id="creative" class="">
+                        <a href="#">Creative</a>
+                    </li>
+                
+                    <li id="preschool" class="">
+                        <a href="#">Preschool</a>
+                    </li>
+                
+                    </ul>
+                
+
+            
+                    <ul id="sorting">
+                
+                    <li class="name active">
+                        <span class="">A-Z</span>
+                        <a id="name" href="javascript:sort('name','gamesList','sortByname','asc');" class="hidden">A-Z</a>
+                    </li>
+                
+                    <li class="newest last">
+                        <span class="hidden">Newest</span>
+                        <a id="newest" href="javascript:sort('newest','gamesList','sortBynewest','desc');" class="">Newest</a>
+                    </li>
+                
+                    </ul>
+                
+            
+            
+                    <ul id="gamesList" class="gamesList seperator">
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/scoobydoo/games/campaign-game-19f4c058928b4d939e8b4ecc295491b2">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/scooby%20doo/scoobydoo%20game.jpg?l.r2=-1258715765" alt="LEGO® Juniors Surfer">
+                            <strong>LEGO® Scooby-Doo</strong>
+                            <em>Huida de la isla encantada</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150330T000000_065</p>
+                        <p class="sortByname">LEGO® Scooby-DooHuida de la isla encantada</p>
+                        <p class="sortByrating">1</p>
+                        <p class="filterByCategory">,allgames,adventure,preschool,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/friends/games/juice-mixer">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/friends/juice%20mixer%20mini%20game.jpg?l.r2=-1065833753" alt="Art Maker">
+                            <strong>LEGO® Friends</strong>
+                            <em>Minijuego: Mezcladora de Jugos</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20141113T000000_064</p>
+                        <p class="sortByname">LEGO® FriendsMinijuego: Mezcladora de Jugos</p>
+                        <p class="sortByrating">0</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/friends/games/pet-puzzle">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/friends/pet%20puzzle%20mini%20game.jpg?l.r2=-186937044" alt="Art Maker">
+                            <strong>LEGO® Friends</strong>
+                            <em>Minijuego: Puzzle de Mascotas</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20141113T000000_063</p>
+                        <p class="sortByname">LEGO® FriendsMinijuego: Puzzle de Mascotas</p>
+                        <p class="sortByrating">0</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/friends/games/pool-basket">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/friends/pool%20basket%20mini%20game.jpg?l.r2=-1310725041" alt="Art Maker">
+                            <strong>LEGO® Friends</strong>
+                            <em>Minijuego: Baloncesto en la Piscina</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20141113T000000_062</p>
+                        <p class="sortByname">LEGO® FriendsMinijuego: Baloncesto en la Piscina</p>
+                        <p class="sortByrating">0</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/friends/games/ready-for-school">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/friends/ready%20for%20school%20mini%20game.jpg?l.r2=301610003" alt="Art Maker">
+                            <strong>LEGO® Friends</strong>
+                            <em>Minijuego: Preparadas para la Escuela</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20141113T000000_061</p>
+                        <p class="sortByname">LEGO® FriendsMinijuego: Preparadas para la Escuela</p>
+                        <p class="sortByrating">0</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/friends/games/dolphin-hoops">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/friends/dolphin%20hoops%20mini%20game.jpg?l.r2=117993647" alt="Art Maker">
+                            <strong>LEGO® Friends</strong>
+                            <em>Minijuego: Delfines Divertidos</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20141113T000000_060</p>
+                        <p class="sortByname">LEGO® FriendsMinijuego: Delfines Divertidos</p>
+                        <p class="sortByrating">0</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/ninjago/games/skybound-bb05b1faf06c497ab9f2feac8fb30816">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20ninjago%20skybound/lego-ninjago-skybound-game.jpg?l.r2=1817660857" alt="LEGO® Ninjago">
+                            <strong>LEGO® NINJAGO™</strong>
+                            <em>Skybound</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160804T000000_059</p>
+                        <p class="sortByname">LEGO® NINJAGO™Skybound</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/marvelsuperheroes/games/posterbuilder-c44f1677abb0411494764b6638dbd2de">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20marvel%20comic%20cover/marvel-poster-builder.jpg?l.r2=-146988966" alt="LEGO® Marvel Iron Man Image">
+                            <strong>LEGO® Marvel™ Super Heroes</strong>
+                            <em>Comic Cover Builder</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160804T000000_058</p>
+                        <p class="sortByname">LEGO® Marvel™ Super HeroesComic Cover Builder</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/mixels/games/mix-your-neighbour">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/mix%20your%20neighbour/mix-your-neighbour.jpg?l.r2=-1864404721" alt="Brain Attack">
+                            <strong>LEGO® Mixels™</strong>
+                            <em>Mezcla a tu vecino</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160804T000000_057</p>
+                        <p class="sortByname">LEGO® Mixels™Mezcla a tu vecino</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/dccomicssuperheroes/games/mightmicros-53f7adb07dca41a898ed5ae42b0d54b2">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/dc%20comics%20mighty%20micros/lego-dc-comics-super-heroes-mighty-micros-game.jpg?l.r2=2123620057" alt="LEGO® DC Comics™ Super Heroes">
+                            <strong>LEGO® DC Comics Super Heroes</strong>
+                            <em>Mighty Micros</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160623T000000_056</p>
+                        <p class="sortByname">LEGO® DC Comics Super HeroesMighty Micros</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,action,allgames,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/starwars/games/posterbuilder-30f24c66b5294260b7fe52f7018c802b">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20star%20wars%20poster%20builder/lego-star-wars-poster-builder.jpg?l.r2=-2039953041" alt="The Yoda Chronicles">
+                            <strong>LEGO® Star Wars™</strong>
+                            <em>Poster Builder</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160623T000000_055</p>
+                        <p class="sortByname">LEGO® Star Wars™Poster Builder</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/city/games/mycity2-c7722ac2c54b4a1a837ae33e20ec90bc">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20city%20my%20city%202/lego-city-my-city-2.jpg?l.r2=1373178532" alt="LEGO® City">
+                            <strong>LEGO® City</strong>
+                            <em>My City 2</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160623T000000_054</p>
+                        <p class="sortByname">LEGO® CityMy City 2</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/city/es-es/games/posterbuilder-edd9298076e54c9c8fb39f53f3300720">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20city%20poster%20builder/lego-city-poster-builder.jpg?l.r2=673920497" alt="LEGO® City Build It Game Image">
+                            <strong>LEGO® City</strong>
+                            <em>Poster Builder</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160622T000000_053</p>
+                        <p class="sortByname">LEGO® CityPoster Builder</p>
+                        <p class="sortByrating">2</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/starwars/games/empire-vs-rebels-2016-08dd24e36d0147a0bc9dce70bbc41e15">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20star%20wars%20-%20empire%20vs%20rebels%202016/star-wars-empire-vs-rebels-2016.jpg?l.r2=-1513281094" alt="Empire vs Rebels">
+                            <strong>LEGO® Star Wars™</strong>
+                            <em>Empire vs Rebels 2016</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160524T000000_052</p>
+                        <p class="sortByname">LEGO® Star Wars™Empire vs Rebels 2016</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/city/games/fire-5a759703bcff4d3392d9ac76d778f884">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/city%20fire%20helicopter/city-fire-helicopter.jpg?l.r2=-1717795795" alt="LEGO® City">
+                            <strong>LEGO® City</strong>
+                            <em>Helicóptero de bomberos</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160513T000000_051</p>
+                        <p class="sortByname">LEGO® CityHelicóptero de bomberos</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,adventure,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/nexoknights/games/super-mega-power-panic">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/nexo%20knights%20super%20mega%20power%20panic/nexo-knights-super-mega-power-panic.jpg?l.r2=613571" alt="LEGO® Ninjago">
+                            <strong>LEGO® NEXO KNIGHTS™</strong>
+                            <em>PÁNICO SUPERMEGA- PODEROSO</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160502T000000_050</p>
+                        <p class="sortByname">LEGO® NEXO KNIGHTS™PÁNICO SUPERMEGA- PODEROSO</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,adventure,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/disneyprincess/games/mosaic-game-4ab8c48ffa7b4be0b961df40132538ac">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/disney%20princess%20mosaic%20game/mosaic.jpg?l.r2=-2111156098" alt="">
+                            <strong>LEGO® Disney™ Princess</strong>
+                            <em>Juego de mosaicos </em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160209T000000_049</p>
+                        <p class="sortByname">LEGO® Disney™ PrincessJuego de mosaicos </p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/city/games/deep-sea-daacbf3f9ea943db98d9f25a07fa1d0f">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20city%20deep%20sea/deep-sea-game_2.jpg?l.r2=-913533628" alt="LEGO® City">
+                            <strong>LEGO® City</strong>
+                            <em>Equipo de exploración submarina</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20151016T000000_048</p>
+                        <p class="sortByname">LEGO® CityEquipo de exploración submarina</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,adventure,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/city/games/space-expedition-fb3f7ccdbba2452bafaa505bd4fea910">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/city%20space%20expedition/city-space-expedition.jpg?l.r2=-43411500" alt="LEGO® City">
+                            <strong>LEGO® City</strong>
+                            <em>Expedición espacial</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20151016T000000_047</p>
+                        <p class="sortByname">LEGO® CityExpedición espacial</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,adventure,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/creator/games/creator-islands-e96d5cf3262a40b1877a5499d9847efe">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/creator%20islands/creator_islands.png?l.r2=-1351916698" alt="LEGO® Creator Builders Island Image">
+                            <strong>LEGO® Creator</strong>
+                            <em>Creator Islands</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20141015T000000_046</p>
+                        <p class="sortByname">LEGO® CreatorCreator Islands</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/dccomicssuperheroes/games/team-up-f8ee3cc8bec24d7c9602615009c6f39e">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20dc%20superheroes%20team%20up/lego_dc_comics_teamup_156x80.png?l.r2=279484730" alt="LEGO® DC Comics™ Super Heroes">
+                            <strong>LEGO® DC Comics™ Super Heroes</strong>
+                            <em>Team Up</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20151001T000000_045</p>
+                        <p class="sortByname">LEGO® DC Comics™ Super HeroesTeam Up</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,action,allgames,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/scoobydoo/games/campaign-game-19f4c058928b4d939e8b4ecc295491b2">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/scoobydoo%20escape%20from%20haunted%20isle/escape_from_haunted_isle_156x80.jpg?l.r2=-1044824632" alt="Turtles Ninja Traning">
+                            <strong>LEGO® Scooby-Doo</strong>
+                            <em>Huida de la isla encantada</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150831T085400_044</p>
+                        <p class="sortByname">LEGO® Scooby-DooHuida de la isla encantada</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/ninjago/games/final%20battle-9ac3a7efcfa04a31b6f7fe395b49b2e3">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/ninjago%20final%20battle/ninjagofinalbattle_156x80.jpg?l.r2=662376056" alt="LEGO® Ninjago">
+                            <strong>LEGO® Ninjago</strong>
+                            <em>Final Battle</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150330T000000_043</p>
+                        <p class="sortByname">LEGO® NinjagoFinal Battle</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/minifigures/games/tree-challenge">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20minifigures%20tree%20challenge/webgame_treechallenge_156x80.jpg?l.r2=323789737" alt="LEGO® Minifigures Mini Games Image">
+                            <strong>LEGO® Minifigures</strong>
+                            <em>Desafío en el Bosque</em>
+                            <span class="overlays gamesOverlay"></span>
+                            <span class="badge englishGame badgeleft">englishGame</span>
+                        </a>
+                        <p class="sortBynewest">20150715T000000_042</p>
+                        <p class="sortByname">LEGO® MinifiguresDesafío en el Bosque</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/minifigures/games/viking-flames">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20minifigures%20viking%20flames/webgame_vikingflames_156x80.jpg?l.r2=874741090" alt="LEGO® Minifigures Mini Games Image">
+                            <strong>LEGO® Minifigures</strong>
+                            <em>Llamas Vikingas</em>
+                            <span class="overlays gamesOverlay"></span>
+                            <span class="badge englishGame badgeleft">englishGame</span>
+                        </a>
+                        <p class="sortBynewest">20150715T000000_041</p>
+                        <p class="sortByname">LEGO® MinifiguresLlamas Vikingas</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/minifigures/games/carrot-rain">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20minifigures%20carrot%20rain/webgame_carrotrain_156x80.jpg?l.r2=-732633970" alt="LEGO® Minifigures Mini Games Image">
+                            <strong>LEGO® Minifigures</strong>
+                            <em>Lluvia de Zanahorias</em>
+                            <span class="overlays gamesOverlay"></span>
+                            <span class="badge englishGame badgeleft">englishGame</span>
+                        </a>
+                        <p class="sortBynewest">20150715T000000_040</p>
+                        <p class="sortByname">LEGO® MinifiguresLluvia de Zanahorias</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/minifigures/games/danger-waters">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20minifigures%20danger%20waters/webgame_dangerwaters_156x80.jpg?l.r2=-836961255" alt="LEGO® Minifigures Mini Games Image">
+                            <strong>LEGO® Minifigures</strong>
+                            <em>Aguas Peligrosas</em>
+                            <span class="overlays gamesOverlay"></span>
+                            <span class="badge englishGame badgeleft">englishGame</span>
+                        </a>
+                        <p class="sortBynewest">20150715T000000_039</p>
+                        <p class="sortByname">LEGO® MinifiguresAguas Peligrosas</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/minifigures/games/bricks-yards">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20minifigures%20brick%20yards/webgame_bricksyards_156x80.jpg?l.r2=515979910" alt="LEGO® Minifigures Mini Games Image">
+                            <strong>LEGO® Minifigures</strong>
+                            <em>Brickbol Americano</em>
+                            <span class="overlays gamesOverlay"></span>
+                            <span class="badge englishGame badgeleft">englishGame</span>
+                        </a>
+                        <p class="sortBynewest">20150715T000000_038</p>
+                        <p class="sortByname">LEGO® MinifiguresBrickbol Americano</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/disneyprincess/games/seek-and-find/ariel">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/disney%20princess%20seek%20and%20find/tout_search_find_156x80.jpg?l.r2=-1089203077" alt="LEGO® Disney™ Princess">
+                            <strong>LEGO® Disney™ Princess</strong>
+                            <em>Busca y encuentra</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150701T110400_037</p>
+                        <p class="sortByname">LEGO® Disney™ PrincessBusca y encuentra</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/disneyprincess/games/sparkle-art-a0fc102fbfcb4c33babb95ffb2b1d59d">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/disney%20princess%20sparkle%20art/tout_drawing_game_156x80.jpg?l.r2=-2006694115" alt="LEGO® Disney™ Princess">
+                            <strong>LEGO® Disney™ Princess</strong>
+                            <em>Arte Brillante</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150701T110400_036</p>
+                        <p class="sortByname">LEGO® Disney™ PrincessArte Brillante</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/city/games/ready-steady-fire-ef6b14ee0acc417d8c6c8c994a30357f">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/city%20ready%20steady%20fire/city_readysteadyfire_tout_156x80.jpg?l.r2=1055262993" alt="Blue Diamond Chase">
+                            <strong>LEGO® City</strong>
+                            <em>City Preparados, Listos, ¡Fuego!</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150701T220900_035</p>
+                        <p class="sortByname">LEGO® CityCity Preparados, Listos, ¡Fuego!</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/jurassicworld/games/demolition-dinosaur-6d3e6b5baeb445daa21603609f9e3bc8">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/jurassic%20demolition%20dinosaur/jurassic_demolition_dinosaur.jpg?l.r2=1112962533" alt="Demolition Dinosaur">
+                            <strong>LEGO® Jurassic World™</strong>
+                            <em>Demolition Dinosaur</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150703T220900_034</p>
+                        <p class="sortByname">LEGO® Jurassic World™Demolition Dinosaur</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/marvelsuperheroes/games/team-up-0743443e7246463d869aabb06998a7b9">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20marvel%20super%20heroes%20team%20up/marvel-super-heroes-team-up.jpg?l.r2=-1456966688" alt="LEGO® Marvel Iron Man Image">
+                            <strong>LEGO® Marvel™ Super Heroes</strong>
+                            <em>Team Up</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20160804T000000_033</p>
+                        <p class="sortByname">LEGO® Marvel™ Super HeroesTeam Up</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/juniors/games/firetruck-aa8bfd041c3445c8a2a9e6f034b0bd1b">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20juniors%20firetruck/lego-juniors-firetruck-game.png?l.r2=57786598" alt="LEGO® Juniors">
+                            <strong>LEGO® Juniors</strong>
+                            <em>Camión de Bomberos</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150511T000000_032</p>
+                        <p class="sortByname">LEGO® JuniorsCamión de Bomberos</p>
+                        <p class="sortByrating">1</p>
+                        <p class="filterByCategory">,allgames,preschool,adventure,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/marvelsuperheroes/games/guardians-of-the-galaxy-1c18f1ac03334f559b9af539e36766fc">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20marvel%20guardians%20of%20the%20galaxy/image.jpg?l.r2=732068083" alt="LEGO® Marvel Iron Man Image">
+                            <strong>LEGO® Marvel™ Super Heroes</strong>
+                            <em>Guardianes de la Galaxia</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150412T000000_031</p>
+                        <p class="sortByname">LEGO® Marvel™ Super HeroesGuardianes de la Galaxia</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/juniors/games/surf-girl-95981b3c5f0344cc8f00432daf5d444f">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20juniors%20surfer/lego-juniors-surfer-game.jpg?l.r2=1684430065" alt="LEGO® Juniors Surfer">
+                            <strong>LEGO® Juniors</strong>
+                            <em>Surfista</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150330T000000_030</p>
+                        <p class="sortByname">LEGO® JuniorsSurfista</p>
+                        <p class="sortByrating">1</p>
+                        <p class="filterByCategory">,allgames,adventure,preschool,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/dccomicssuperheroes/games/batman-41737f39a61649c48e796268da665115">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20dc%20universe%20batman%20game/dc_batman_game.png?l.r2=972891026" alt="LEGO® DC Comics™ Super Heroes">
+                            <strong>LEGO® DC Comics™ Super Heroes</strong>
+                            <em>Super Heroes Batman</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20130422T000000_029</p>
+                        <p class="sortByname">LEGO® DC Comics™ Super HeroesSuper Heroes Batman</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/chima/games/speedorz-game">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/chima%20speedorz/chima-speedorz-game.png?l.r2=-623787972" alt="Speedorz">
+                            <strong>LEGO® CHIMA™</strong>
+                            <em>Speedorz Juego</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20130204T163000_028</p>
+                        <p class="sortByname">LEGO® CHIMA™Speedorz Juego</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/marvelsuperheroes/games/ultimate-spider-man-6e559076f34b490b889d362dad05cf75">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20marvel%20super%20heroes%20spider-man/spidermangame.png?l.r2=-429416184" alt="Spider-Man">
+                            <strong>LEGO® Marvel™ Super Heroes</strong>
+                            <em>Spider-Man</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20130323T220000_027</p>
+                        <p class="sortByname">LEGO® Marvel™ Super HeroesSpider-Man</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/minifigures/games/mr-gold">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20minifigures%20mr%20gold/minifigures_mrgold.png?l.r2=981191663" alt="LEGO® Minifigures">
+                            <strong>LEGO® Minifigures</strong>
+                            <em>Mr. Gold</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20130528T111500_026</p>
+                        <p class="sortByname">LEGO® MinifiguresMr. Gold</p>
+                        <p class="sortByrating">6</p>
+                        <p class="filterByCategory">,allgames,strategy,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/marvelsuperheroes/games/iron-man-3-e8e3158bc8f14d37b38cfa93a302f508">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/marvel%20iron%20man%203/marvel_ironman_game3.png?l.r2=1781843987" alt="LEGO® Marvel™ Super Heroes">
+                            <strong>LEGO® Marvel™ Super Heroes</strong>
+                            <em>Iron Man 3</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20130724T115000_025</p>
+                        <p class="sortByname">LEGO® Marvel™ Super HeroesIron Man 3</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/juniors/games/race-4d866a4287c04b2086bde8cc81b48cfb">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/juniors/juniors_racing_game.png?l.r2=1656117562" alt="LEGO® Juniors">
+                            <strong>LEGO® Juniors</strong>
+                            <em>Carrera</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150330T000000_024</p>
+                        <p class="sortByname">LEGO® JuniorsCarrera</p>
+                        <p class="sortByrating">1</p>
+                        <p class="filterByCategory">,allgames,adventure,preschool,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/mindstorms/games/fix-the-factory">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/mindstorms%202013/mindstorms_game.png?l.r2=2043006945" alt="LEGO® Mindstorms®">
+                            <strong>LEGO® MINDSTORMS®</strong>
+                            <em>Arregla la fábrica</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20131016T104100_023</p>
+                        <p class="sortByname">LEGO® MINDSTORMS®Arregla la fábrica</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/dccomicssuperheroes/games/superman-00c54d2359594a35b15395214e34502d">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20dc%20universe%20superman/dc_superman_game.png?l.r2=132873701" alt="LEGO® DC Comics™ Super Heroes">
+                            <strong>LEGO® DC Comics™ Super Heroes</strong>
+                            <em>Superman</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20130522T000000_022</p>
+                        <p class="sortByname">LEGO® DC Comics™ Super HeroesSuperman</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,action,allgames,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/en-us/starwars/games/advent-calendar-3498ef90d5a54186a1a930e72e586d7f">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/star%20wars%20advent%20calendar/star%20wars_advent_calendar_game.png?l.r2=-269651673" alt="LEGO® Star Wars™">
+                            <strong>LEGO® Star Wars™</strong>
+                            <em>2013 Calendario de Adviento</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20131218T112400_021</p>
+                        <p class="sortByname">LEGO® Star Wars™2013 Calendario de Adviento</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/ninjago/games/ninjago-rebooted-ce7a4c6216f0431ab949286975d751fb">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/ninjago%20-%20rebooted/ninjago_rebooted.png?l.r2=-2044888250" alt="LEGO® Ninjago">
+                            <strong>LEGO® Ninjago</strong>
+                            <em>Ninjago Rebooted</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20140205T091500_020</p>
+                        <p class="sortByname">LEGO® NinjagoNinjago Rebooted</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/city/my-city">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/city%20my%20city/city_mycity.png?l.r2=-1813328501" alt="LEGO® City">
+                            <strong>LEGO® City</strong>
+                            <em>City My City</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20140129T084800_019</p>
+                        <p class="sortByname">LEGO® CityCity My City</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/disneyprincess/games/princess-treasure-hunt-c8631ad272304e38b2aaaaa4430ca7f4">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/disney%20princess/disney_princess_game.png?l.r2=-1663659323" alt="LEGO® Disney™ Princess">
+                            <strong>LEGO® Disney™ Princess</strong>
+                            <em>Princesa en Busca del Tesoro</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20140312T000000_018</p>
+                        <p class="sortByname">LEGO® Disney™ PrincessPrincesa en Busca del Tesoro</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/mixels/games/mixel-mania">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/mixels%20mania/mixel_mania.png?l.r2=-1911123973" alt="Brain Attack">
+                            <strong>LEGO® Mixels</strong>
+                            <em>Mixel Mania</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20140305T100900_017</p>
+                        <p class="sortByname">LEGO® MixelsMixel Mania</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/technic/games/pullback-racer-2-25cfb17a21a9406986335825092391f2">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/technic%20race%202014/technic_race.jpg?l.r2=282411232" alt="LEGO® Technic Challenge Image">
+                            <strong>LEGO® Technic</strong>
+                            <em>Pullback Racer 2</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20140502T000000_016</p>
+                        <p class="sortByname">LEGO® TechnicPullback Racer 2</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/en-us/starwars/games/microfighters-8579880e891e421cb719c4c6bd059efc">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/starwars%20microfighters/sw_microfighters_games.png?l.r2=-266718107" alt="The Yoda Chronicles">
+                            <strong>LEGO® Star Wars™</strong>
+                            <em>Microfighters</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20140501T000000_015</p>
+                        <p class="sortByname">LEGO® Star Wars™Microfighters</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/city/games/arctic-2d84d146ed754897b0be9a5d278384fe">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/city_arctic_expedition.png?l.r2=1743154409" alt="LEGO® City">
+                            <strong>LEGO® City</strong>
+                            <em>Ártico</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20140903T000000_014</p>
+                        <p class="sortByname">LEGO® CityÁrtico</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/dccomicssuperheroes/games/batman-demolition-derby-bb0270404b864bd585f20b70c8a504a1">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/dc_demolition_derby.png?l.r2=818898173" alt="LEGO® DC Comics™ Super Heroes">
+                            <strong>LEGO® DC Comics™ Super Heroes</strong>
+                            <em>Demolición</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20140903T000000_013</p>
+                        <p class="sortByname">LEGO® DC Comics™ Super HeroesDemolición</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,action,allgames,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/friends/games/sunshine-ranch">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/friends_sunshine_ranch.png?l.r2=1570789600" alt="LEGO® Friends">
+                            <strong>LEGO® Friends</strong>
+                            <em>El Rancho Soleado</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20130826T083700_012</p>
+                        <p class="sortByname">LEGO® FriendsEl Rancho Soleado</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/starwars/games/the-new-yoda-chronicles-3fd8e02f1c5f4d2c856339f08472d72b">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/star%20wars%20yoda%20chronicles%20v2/yodachronicles20.png?l.r2=1941066452" alt="The New Yoda Chronicles">
+                            <strong>LEGO® Star Wars™</strong>
+                            <em>Las Nuevas Crónicas de Yoda</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20140917T000000_011</p>
+                        <p class="sortByname">LEGO® Star Wars™Las Nuevas Crónicas de Yoda</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/friends/games/art-maker">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/friends%20art%20maker/thumbnail156x80.jpg?l.r2=-1556137216" alt="Art Maker">
+                            <strong>LEGO® Friends</strong>
+                            <em>Juego: Art Maker</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20141113T000000_010</p>
+                        <p class="sortByname">LEGO® FriendsJuego: Art Maker</p>
+                        <p class="sortByrating">0</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/friends/games/story-maker">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/friends%20storymaker/friends_storymaker_thumbnail156x80.jpg?l.r2=-158691677" alt="Story Maker">
+                            <strong>LEGO® Friends</strong>
+                            <em>Juego: Story Maker</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20141113T000000_009</p>
+                        <p class="sortByname">LEGO® FriendsJuego: Story Maker</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,creative,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/starwars/games/empirevsrebels-8af160f05c294f2ca33e8509f06d81c3">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20star%20wars%20empire%20vs%20rebels/sw_empire_rebels_game.png?l.r2=718417739" alt="Empire vs Rebels">
+                            <strong>LEGO® Star Wars™</strong>
+                            <em>Imperio vs. Rebeldes</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150106T000000_008</p>
+                        <p class="sortByname">LEGO® Star Wars™Imperio vs. Rebeldes</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/city/games/swamp-police-5e291ee3b9e54b4f9392835e605236c3">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/city/city_swamppolice.png?l.r2=-521247011" alt="LEGO® City">
+                            <strong>LEGO® City</strong>
+                            <em>Policía del Pantano</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150217T000000_007</p>
+                        <p class="sortByname">LEGO® CityPolicía del Pantano</p>
+                        <p class="sortByrating">5</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/mixels/games/whos-in-the-mix">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/mixels/mixels_whointhemix.png?l.r2=115890370" alt="LEGO® Mixels">
+                            <strong>LEGO® Mixels</strong>
+                            <em>Quién hay en el Mix</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150217T000000_006</p>
+                        <p class="sortByname">LEGO® MixelsQuién hay en el Mix</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/bionicle/games">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/bionicle/bionicle_game_gp.png?l.r2=2042721797" alt="LEGO® Disney™ Princess">
+                            <strong>LEGO® BIONICLE®</strong>
+                            <em>Máscara de la Creación</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150304T000000_005</p>
+                        <p class="sortByname">LEGO® BIONICLE®Máscara de la Creación</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/speedchampions/games">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20speed%20champions/lego-speed-champions-game.jpg?l.r2=787177265" alt="LEGO® Speed Champions game">
+                            <strong>LEGO® Speed Champions</strong>
+                            <em>Speed Champions</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150330T120200_004</p>
+                        <p class="sortByname">LEGO® Speed ChampionsSpeed Champions</p>
+                        <p class="sortByrating">1</p>
+                        <p class="filterByCategory">,allgames,action,adventure,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/ninjago/games/rush-5cc63377803c43fe8c5a543a7d2fdeef">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/ninjago/ninjago_rush.png?l.r2=406469384" alt="LEGO® Ninjago">
+                            <strong>LEGO® Ninjago</strong>
+                            <em>Rush</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150330T000000_003</p>
+                        <p class="sortByname">LEGO® NinjagoRush</p>
+                        <p class="sortByrating">9</p>
+                        <p class="filterByCategory">,allgames,action,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/juniors/games/pony-7f296ebdc7ee43e6861be06a7d83aa2b">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20juniors%20pony/juniors%20pony.jpg?l.r2=1407721203" alt="LEGO® Juniors">
+                            <strong>LEGO® Juniors</strong>
+                            <em>Poni</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150511T000000_002</p>
+                        <p class="sortByname">LEGO® JuniorsPoni</p>
+                        <p class="sortByrating">1</p>
+                        <p class="filterByCategory">,allgames,preschool,adventure,strategy,</p>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.lego.com/es-es/starwars/games/ultimate-rebel-17ff627fc2f04629adead1d31acd8bc9">
+                            <img class="rounded" src="http://cache.lego.com/r/www/-/media/portal%20v2010/games/games/lego%20star%20wars%20ultimate%20rebel/star-wars-ultimate-rebels.jpg?l.r2=-986832643" alt="Ultimate Rebel">
+                            <strong>LEGO® Star Wars™</strong>
+                            <em>Ultimate Rebel</em>
+                            <span class="overlays gamesOverlay"></span>
+                            
+                        </a>
+                        <p class="sortBynewest">20150515T000000_001</p>
+                        <p class="sortByname">LEGO® Star Wars™Ultimate Rebel</p>
+                        <p class="sortByrating">1</p>
+                        <p class="filterByCategory">,allgames,action,adventure,</p>
+                    </li>
+                
+                    </ul>
+                            
+        </div>
+        <span class="right"></span>
+    </div>
+    
+    
+<script type="text/javascript">
+    $(function () {
+        $('#gamesList').jScrollPane({ alwaysShow: true, showArrows: true, scrollbarWidth: 18, arrowSize: 23 });
+    });
+</script>
+
+      </div>
+      
+      
+   </div>
+   <script type="text/javascript" src="http://cache.lego.com/r/www/r/globalnavigationservices/api/v1/global/scripts/es-ES/lego.global.javascriptwrapper/www?l.r2=1.0.0.1585"></script>
+
+            
+        </form>
+        <script src="http://cache.lego.com/r/www/scripts/dist/release.js?l.r2=1.0.0.1585" type="text/javascript"></script>
+    </body>
+</html>

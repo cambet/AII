@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSS Portada US</title>
+    <link>http://www.us.es/</link>
+    <description>RSS Portada de la US</description>
+    <language>es-ES</language>
+    <managingEditor>portaladm@us.es (Administrator User)</managingEditor>
+    <pubDate>Mon, 10 Oct 2016 15:10:29 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 15:10:29 +0000</lastBuildDate>
+    <generator>eZ Components Feed dev (http://ezcomponents.org/docs/tutorials/Feed)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <atom:link href="http://www.us.es/rss/feed/portada" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Preinscripción Grados.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Preinscripcion-Grados</link>
+      <description>Fase II. 1ª adjudicación&#13;
+</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">97fb9357ad04d256ae0270cbc798dc87</guid>
+      <pubDate>Wed, 21 Sep 2016 06:52:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prueba de Acceso a la Universidad: Calendario vista exámenes.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Prueba-de-Acceso-a-la-Universidad-Calendario-vista-examenes</link>
+      <description>Calendario de vista de exámenes. Convocatoria Ordinaria, junio 2016&#13;
+</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <guid isPermaLink="false">071bea5a2f8f0082d31895ab3be958ea</guid>
+      <pubDate>Wed, 20 Jul 2016 10:49:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuentas Anuales: Estados Presupuestarios del ejercicio 2015</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Cuentas-Anuales-Estados-Presupuestarios-del-ejercicio-2015</link>
+      <description>Aprobadas por el Consejo Social con fecha 30 de junio de 2016.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">c2be5790487715ef2dd596fb1b59e019</guid>
+      <pubDate>Tue, 12 Jul 2016 06:51:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horario Salas de Estudio</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Horario-Salas-de-Estudio</link>
+      <description>Aviso para los estudiantes Salas de Estudio 24 horas meses de julio y agosto de 2016</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">89c5ac2c75c901cca46cbf66e2825106</guid>
+      <pubDate>Fri, 01 Jul 2016 12:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horario de atención al público Registro General</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Horario-de-atencion-al-publico-Registro-General2</link>
+      <description>Horario de Atención al Público de Registro General durante el periodo de VERANO del presente año 2016</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">d83c0831aaf937fcd4134d90ddc48b07</guid>
+      <pubDate>Fri, 01 Jul 2016 07:50:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preinscripción Máster Universitario. Fase 3</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Preinscripcion-Master-Universitario.-Fase-32</link>
+      <description>Preinscripción Máster Universitario. Apertura Fase 3.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">764c3c3fe9509b0be63f5795106c1596</guid>
+      <pubDate>Wed, 29 Jun 2016 07:11:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Publicación calificaciones PAU:</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Publicacion-calificaciones-PAU</link>
+      <description>Consulta de Calificaciones actualizadas después de los procesos de reclamaciones y segundas correcciones.&#13;
+</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <guid isPermaLink="false">ead79d9acbfa897502fafa9bca929f38</guid>
+      <pubDate>Wed, 22 Jun 2016 11:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Itinerarios Curriculares (Cursos de Adaptación). Convocatoria 2016-17.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Itinerarios-Curriculares-Cursos-de-Adaptacion-.-Convocatoria-2016-17</link>
+      <description>Procedimiento de ingreso en los Itinerarios Curriculares Concretos (Cursos de Adaptación)&#13;
+</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">3fd2b04a5a38f340772b5b39ea58d300</guid>
+      <pubDate>Wed, 22 Jun 2016 11:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ayudas para la adquisición de competencias lingüísticas</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Ayudas-para-la-adquisicion-de-competencias-lingueisticas</link>
+      <description>Ayudas para el fomento de la adquisición y acreditación de las competencias lingüísticas.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">3ad11ab55f529300a061ef99d734b3e8</guid>
+      <pubDate>Wed, 15 Jun 2016 11:45:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aviso para los Usuarios de las Salas de Estudios</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Aviso-para-los-Usuarios-de-las-Salas-de-Estudios</link>
+      <description>Nueva Sala de Estudios 24 horas en el Edificio Anatómico Forense, Campus Macarena.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">464319f7d62500c111f76f1a565a68ad</guid>
+      <pubDate>Mon, 06 Jun 2016 12:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acto de Clausura del Curso Académico 2015-2016 del Aula de la Experiencia</title>
+      <link>http://www.us.es/acerca/comunicacion/agenda/Acto-de-Clausura-del-Curso-Academico-2015-2016-del-Aula-de-la-Experiencia</link>
+      <description></description>
+      <author>portaladm@us.es (Alejandro Carrasco)</author>
+      <guid isPermaLink="false">463cf004f9a009dc97e2d9cf196f8854</guid>
+      <pubDate>Wed, 25 May 2016 08:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homenaje al profesor Francisco González García</title>
+      <link>http://www.us.es/acerca/comunicacion/agenda/Homenaje-al-profesor-Francisco-Gonzalez-Garcia</link>
+      <description></description>
+      <author>portaladm@us.es (Alejandro Carrasco)</author>
+      <guid isPermaLink="false">7583e97e030de794964580c371195cc7</guid>
+      <pubDate>Wed, 25 May 2016 08:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jornada 'El son negro del flamenco'</title>
+      <link>http://www.us.es/acerca/comunicacion/agenda/Jornada-El-son-negro-del-flamenco</link>
+      <description></description>
+      <author>portaladm@us.es (Alejandro Carrasco)</author>
+      <guid isPermaLink="false">0c046690453be5594a43ddc4d69ac1bf</guid>
+      <pubDate>Tue, 24 May 2016 08:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Actos de graduación en la Facultad de Medicina</title>
+      <link>http://www.us.es/acerca/comunicacion/agenda/Actos-de-graduacion-en-la-Facultad-de-Medicina</link>
+      <description></description>
+      <author>portaladm@us.es (Alejandro Carrasco)</author>
+      <guid isPermaLink="false">0e6b2529ba43fda961cc006cd05df8ba</guid>
+      <pubDate>Tue, 24 May 2016 08:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mesa redonda sobre Antonio Machado en el CICUS</title>
+      <link>http://www.us.es/acerca/comunicacion/agenda/Mesa-redonda-sobre-Antonio-Machado-en-el-CICUS</link>
+      <description></description>
+      <author>portaladm@us.es (Alejandro Carrasco)</author>
+      <guid isPermaLink="false">0176826bf0735fddb52dd6d8aa815d8b</guid>
+      <pubDate>Tue, 24 May 2016 08:18:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>'La noche del cazador' en el CICUS</title>
+      <link>http://www.us.es/acerca/comunicacion/agenda/La-noche-del-cazador-en-el-CICUS</link>
+      <description></description>
+      <author>portaladm@us.es (Alejandro Carrasco)</author>
+      <guid isPermaLink="false">b6d65b4c35da54c2dbbdf3bf1ba35d9d</guid>
+      <pubDate>Tue, 24 May 2016 08:14:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Encuestas al alumnado sobre la actividad docente.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Encuestas-al-alumnado-sobre-la-actividad-docente</link>
+      <description></description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">56ffdb4e421c268ae15c7918b1621b15</guid>
+      <pubDate>Tue, 17 May 2016 12:37:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abierto plazo matrícula PAU para mejorar nota</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Abierto-plazo-matricula-PAU-para-mejorar-nota</link>
+      <description>Matrícula PAU, estudiantes que repiten la prueba para mejorar nota</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">70fc4166afddbfdd30bdc18f9113237f</guid>
+      <pubDate>Tue, 03 May 2016 12:11:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ranking de Universidades Españolas en Software Libre (RuSL) 2016</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Ranking-de-Universidades-Espanolas-en-Software-Libre-RuSL-2016</link>
+      <description>La Universidad de Sevilla sube al 4ª puesto</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">cd4dc3dcdaa9452eda04a2ebbab10469</guid>
+      <pubDate>Thu, 21 Apr 2016 11:13:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nueva Convocatoria de Ayudas Sociales Extraordinarias</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Nueva-Convocatoria-de-Ayudas-Sociales-Extraordinarias</link>
+      <description>Presentación de solicitudes desde el 30 de marzo al 19 de abril de 2016, ambos inclusive.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">519b52de32644ac0abb89b03b45e8cf2</guid>
+      <pubDate>Thu, 31 Mar 2016 06:39:52 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
